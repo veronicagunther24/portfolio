@@ -16,6 +16,7 @@ In this project I propose a solution to a problem of public communication in the
 
 <br>
 <br>
+Find instructions on how to build your own portfolio [here](https://milesccoleman.com/portfolio/instructions). (You can delete this after you edit the portfolio to suit your needs.) 
 <br>
 <br>
 <br>
