@@ -1,4 +1,4 @@
-#Setting Up the Page
+# Setting Up the Page
 1. Set up an account at [GitHub](https://github.com)
 2. Go to this [repository](https://github.com/milesccoleman/portfolio.git) while signed in to your account. 
 3. Click "fork." Let the software complete the forking process. 
@@ -10,7 +10,7 @@
 9. Edit by replacing with your own content. You can find a cheatsheet of the markdown [here](https://www.markdownguide.org/basic-syntax#headings). 
 10. Click "Commit" at the bottom of your page to save your changes. 
 
-#Publishing the Page
+# Publishing the Page
 1. Navigate to "Settings." 
 2. 
 
