@@ -15,9 +15,9 @@
 1. Navigate to "Settings." 
 2. Scroll down to "GitHub Pages." 
 3. In the dropdown menu under "Source," select "main branch." 
-4. Under "Enforce HTTPS click the checkbox. 
+4. Under "Enforce HTTPS" click the checkbox. 
 5. You should have a URL, following the phrase "Your site..." 
-6. Refresh the screen until the background color turns green (it will intially be blue-gray). 
-7. When the URL color turns green click the link. 
+6. Refresh the screen until the background color of "Your site..." turns green (it will intially be blue-gray). 
+7. When the URL color of "Your site..." turns green click the link. 
 8. Save the URL. Voila! You now have your own portfolio site! 
 
