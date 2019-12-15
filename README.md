@@ -7,3 +7,21 @@ Hello, I am Amazing Student, a student at Rowan University. I study x, y, and z.
 ## [Project 2](https://americanrhetoric.com)
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
