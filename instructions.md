@@ -5,3 +5,4 @@
 5. Click on your account and navigate to "your repositories." 
 6. Click on "portfolio." 
 7. Click on ```README.md```
+8. When you are taken to ```README.md```, click the 
