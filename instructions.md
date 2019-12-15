@@ -1,4 +1,4 @@
-## [home](https://milesccoleman.com/portfolio/)
+## [Home](https://milesccoleman.com/portfolio/)
 # Setting Up the Page
 1. Set up an account at [GitHub](https://github.com)
 2. Go to this [repository](https://github.com/milesccoleman/portfolio.git) while signed in to your account. 
