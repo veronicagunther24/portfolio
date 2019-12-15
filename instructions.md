@@ -1,8 +1,14 @@
-1. set up an account at [GitHub](https://github.com)
+1. Set up an account at [GitHub](https://github.com)
 2. Go to this [repository](https://github.com/milesccoleman/portfolio.git) while signed in to your account. 
 3. Click "fork." Let the software complete the forking process. 
 4. Go to your user profile on [GitHub](https://github.com). 
 5. Click on your account and navigate to "your repositories." 
 6. Click on "portfolio." 
-7. Click on ```README.md```
-8. When you are taken to ```README.md```, click the 
+7. Click on ```README.md```. 
+8. Click the ![edit icon!](edit.png "edit icon"). 
+9. Edit by replacing with your own content. 
+10. Click "Commit" at the bottom of your page to save your changes. 
+
+11. Navigate to "Settings." 
+12. 
+
