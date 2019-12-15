@@ -21,5 +21,5 @@
 7. When the URL color of "Your site..." turns green click the link. 
 8. Save the URL. Voila! You now have your own portfolio site! 
 
-# Call for Papers Central States Communication Association Undergraduate Honors Conference
+# Central States Communication Association Undergraduate Honors Conference
 Check out the [call for papers](https://www.csca-net.org/aws/CSCA/pt/sd/news_article/24070/_PARENT/layout_details_callforpapers/false). Consider submitting. 
