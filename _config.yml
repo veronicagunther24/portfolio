@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: Portfolio
 github:
   is_project_page: false
+exclude:
+  - assets/javascript/anchor-js
