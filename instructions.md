@@ -11,6 +11,6 @@
 10. Click "Commit" at the bottom of your page to save your changes. 
 
 #Publishing the Page
-11. Navigate to "Settings." 
-12. 
+1. Navigate to "Settings." 
+2. 
 
