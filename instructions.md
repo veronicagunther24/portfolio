@@ -5,7 +5,7 @@
 5. Click on your account and navigate to "your repositories." 
 6. Click on "portfolio." 
 7. Click on ```README.md```. 
-8. Click the ![edit icon!](edit.png "edit icon"). 
+8. Click the edit icon ![edit icon!](edit.png "edit icon"). 
 9. Edit by replacing with your own content. 
 10. Click "Commit" at the bottom of your page to save your changes. 
 
